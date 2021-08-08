@@ -122,7 +122,7 @@ btn:focus{
     border-color: rgba(255, 111, 89, 0.8) !important;
 }
 
-footer{
+/* footer{
     text-align: center;
     justify-content: center;
     background: black;
@@ -132,4 +132,4 @@ footer{
     width: 100%;
     padding: auto;
     box-sizing: border-box;
-}
+} */
